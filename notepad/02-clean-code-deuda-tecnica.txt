@@ -1,0 +1,24 @@
+
+
+¿Qué es la deuda técnica?
+  La falta de calidad en el codigo, que genera una deuda que repercutirá en costos futuros
+
+Costos economicos de la deuda tecnica
+  *Tiempo en realizar mantenimientos.
+  *Tiempo en refactorizar codigo
+  *Tiempo en comprender el codigo
+  *Tiempo adicional en la transferencia del codigo 
+
+¿Cómo se paga la deuda técnica?
+
+Refactorización
+
+Nombres de variables
+
+Nombres para funciones
+
+Ejercicios de refactorización
+
+Principio DRY
+
+Esta sección procura q
